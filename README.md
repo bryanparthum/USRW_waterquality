@@ -7,7 +7,7 @@ This repo contains data and code for reproducing Parthum and Ando (2020), "[Over
 
 Click on the "fork" button at the very top right of the page to create an independent copy of the repo within your own GitHub account. Alternatively, click on the green "clone or download" button just below that to download the repo to your local computer. You will need to set the working directory of the `.do` and `.R` files to the location of your download (this is noted at the top of each script). 
 
-The main file for conducting the analysis is `1_analyze_wtpspace.do`. This will provide the primary findings in the paper. Each file is stand-alone and should be self-explanatory.
+The main file for conducting the analysis is `1_analyze_wtpspace.R`. This will provide the primary findings in the paper. Each file is stand-alone and should be self-explanatory.
 
 ## Requirements
 
