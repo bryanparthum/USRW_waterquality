@@ -1,7 +1,7 @@
 # Overlooked Benefits of Nutrient Reductions in the Mississippi River Basin
 
 
-This repo contains data and code for reproducing Parthum and Ando (2020), "[Overlooked Benefits of Nutrient Reductions in the Mississippi River Basin](http://dx.doi.org/)". 
+This repo contains data and code for reproducing Parthum and Ando (2020), "[Overlooked Benefits of Nutrient Reductions in the Mississippi River Basin](http://le.uwpress.org/content/96/4/589.abstract)". 
 
 > **Abstract:** Improvements in local surface water quality in the Mississippi River Basin (MRB) can contribute to the regional environmental goals of reducing hypoxia in the Gulf of Mexico. To inform estimates of the benefits of water quality policy, we use a choice experiment survey in a typical sub-watershed of the MRB to estimate willingness to pay for local environmental improvements and helping to reduce hypoxia far downstream. We find that residents place large values on reduced local algal blooms, improved local fish populations and diversity, and meeting local commitments to help with the regional environmental problem. 
 
