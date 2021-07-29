@@ -40,7 +40,7 @@ lapply(packages, pkgTest)
 ####################################################
 
 ## Set working directory
-setwd("C:/Users/parthum2/Box/Sangamon/analysis/analyze")
+setwd("")
 
 ## LOAD NULL MODELS
 null_pooled <- readRDS(file="estimates/null_pooled.rds")
