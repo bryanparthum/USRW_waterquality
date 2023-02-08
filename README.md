@@ -19,10 +19,6 @@ The analysis is written in *R*. Data is stored as *.rds*.
 
 The analyses in this paper involves many computationally intensive random parameter logit estimations. The computation time for each regression ranges from 5 to 45 minutes using 4 cores with 64GB RAM.
 
-## Problems
-
-If any errors are discovered, please inform the owner of this repository at [parthum.bryan@epa.gov](mailto:parthum.bryan@epa.gov). Thank you, and enjoy!
-
 ## License
 
 The software code contained within this repository is made available under the [MIT license](http://opensource.org/licenses/mit-license.php). The data and figures are made available under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license.
