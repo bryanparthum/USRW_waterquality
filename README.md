@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/244050031.svg)](https://zenodo.org/doi/10.5281/zenodo.3692737)
+
 # Overlooked Benefits of Nutrient Reductions in the Mississippi River Basin
 
 
